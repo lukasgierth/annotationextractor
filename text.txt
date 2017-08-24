@@ -1,0 +1,10 @@
+AAA BBB {@from p:"1" id:"pete" label:"label1" wc:"2"}Stadt 1 CCC DDD
+AAA BBB {@via dl:"0" p:"3" id:"pete" label:"label1" wc:"2"}Stadt 3 CCC DDD
+AAA BBB {@  wc:"2"}Einfach 2 CCC DDD
+AAA BBB {@from p:"1" id:"suse" label:"label1" wc:"2"}Baum 1 CCC DDD
+AAA BBB {@ id:"timeline1" label:"tl1" date:"2017"}Zeit CCC DDD
+AAA BBB {@to p:"1" id:"suse" label:"label1" wc:"2"}Baum 2 CCC DDD
+AAA BBB {@  wc:"2"}Einfach 1 CCC DDD
+AAA BBB {@via p:"2" id:"pete" label:"label1" wc:"2"}Stadt 2 CCC DDD
+AAA BBB {@ id:"timeline1"}Zeit2 CCC DDD
+AAA BBB {@to p:"4" id:"pete" label:"label1"}Stadt1 CCC DDD
